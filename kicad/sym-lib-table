@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Digilent")(type "KiCad")(uri "${KIPRJMOD}/Digilent.kicad_sym")(options "")(descr ""))
+  (lib (name "SparkFun")(type "KiCad")(uri "${KIPRJMOD}/SparkFun.kicad_sym")(options "")(descr ""))
+  (lib (name "Texas Instruments")(type "KiCad")(uri "${KIPRJMOD}/2023-07-25_19-01-47.kicad_sym")(options "")(descr ""))
+)
